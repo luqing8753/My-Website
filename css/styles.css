@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+  text-align: center;
+}
+
+.top-container {
+  padding-top: 150px;
+  position: relative;
+  background-color: #E4F9F5;
+}
+.middle-container {
+  padding-top: 100px;
+  background-color: #fdffdc;
+}
+.bottom-container {
+  background-color: #ffe6eb;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  margin: 0 auto;
+
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+p {
+  font-family: 'Nunito', sans-serif;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 50px;
+  right: 350px;
+}
+.bottom-cloud {
+  position: absolute;
+  top: 150px;
+  left: 300px;
+  height: 200px;
+}
+.camping_2 {
+  height: 300px;
+}
+.images {
+  height: 150px;
+}
+hr {
+  margin: 0;
+  padding: 0;
+}
